@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1516330573 source:c:\users\alex\documents\ics3u comp sci\young_summative\young_summative.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+

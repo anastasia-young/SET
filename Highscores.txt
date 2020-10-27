@@ -1,0 +1,5 @@
+Adam	498.0
+Staz	545.0
+Julie	665.0
+sandro	771.0
+Sabrina	867.0
